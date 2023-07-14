@@ -38,6 +38,12 @@
     ],
     "category": "player"
   },
+  "xlr8.speeding2": {
+    "sounds": [
+      "xlr8_speeding2"
+    ],
+    "category": "player"
+  },
   "xlr8.mask": {
     "sounds": [
       "xlr8_mask"
