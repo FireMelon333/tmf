@@ -32,9 +32,21 @@
     ],
     "category": "player"
   },
+  "heatblast.bomb": {
+    "sounds": [
+      "heatblast_bomb_explode"
+    ],
+    "category": "player"
+  },
   "xlr8.speeding": {
     "sounds": [
       "xlr8_speeding"
+    ],
+    "category": "player"
+  },
+  "xlr8.punches": {
+    "sounds": [
+      "xlr8_punches"
     ],
     "category": "player"
   },
