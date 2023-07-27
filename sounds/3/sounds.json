@@ -61,5 +61,11 @@
       "xlr8_mask"
     ],
     "category": "player"
+  },
+  "ripjaws.bite": {
+    "sounds": [
+      "ripjaws_bite"
+    ],
+    "category": "player"
   }
 }
