@@ -67,5 +67,24 @@
       "ripjaws_bite"
     ],
     "category": "player"
+  },
+
+  "armory.invisibility_start": {
+    "sounds": [
+      "invisibility_start"
+    ],
+    "category": "player"
+  },
+  "armory.invisibility_end": {
+    "sounds": [
+      "invisibility_end"
+    ],
+    "category": "player"
+  },
+  "armory.unibeam_charge": {
+    "sounds": [
+      "unibeam_charge"
+    ],
+    "category": "player"
   }
 }
