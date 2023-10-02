@@ -68,6 +68,20 @@
     ],
     "category": "player"
   },
+  "upgrade.speaker_bass": {
+    "sounds": [
+      "upgrade_speaker_bass_1",
+	    "upgrade_speaker_bass_2",
+	    "upgrade_speaker_bass_3"
+    ],
+    "category": "player"
+  },
+  "upgrade.speaker_leap": {
+    "sounds": [
+      "upgrade_speaker_bass_leap"
+    ],
+    "category": "player"
+  },
 
   "armory.invisibility_start": {
     "sounds": [
