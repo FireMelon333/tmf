@@ -76,6 +76,12 @@
     ],
     "category": "player"
   },
+  "upgrade.speaker_noise": {
+    "sounds": [
+      "upgrade_speaker_noise"
+    ],
+    "category": "player"
+  },
   "upgrade.speaker_leap": {
     "sounds": [
       "upgrade_speaker_bass_leap"
