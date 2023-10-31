@@ -119,6 +119,12 @@
     ],
     "category": "player"
   },
+  "armory.backpack2": {
+    "sounds": [
+      "iron_man_backpack2"
+    ],
+    "category": "player"
+  },
   "armory.invisibility_start": {
     "sounds": [
       "invisibility_start"
