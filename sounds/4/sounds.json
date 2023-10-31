@@ -88,6 +88,24 @@
     ],
     "category": "player"
   },
+  "upgrade.transform": {
+    "sounds": [
+      "upgrade_transform"
+    ],
+    "category": "player"
+  },
+  "upgrade.beam": {
+    "sounds": [
+      "upgrade_beam"
+    ],
+    "category": "player"
+  },
+  "upgrade.charge": {
+    "sounds": [
+      "upgrade_charge"
+    ],
+    "category": "player"
+  },
 
   "armory.invisibility_start": {
     "sounds": [
