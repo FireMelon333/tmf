@@ -106,6 +106,12 @@
     ],
     "category": "player"
   },
+  "upgrade.wind": {
+    "sounds": [
+      "upgrade_wind"
+    ],
+    "category": "player"
+  },
 
   "armory.invisibility_start": {
     "sounds": [
