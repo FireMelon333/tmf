@@ -1,0 +1,152 @@
+{
+  "omnitrix.activation": {
+    "sounds": [
+      "omnitrix_os_activation"
+    ],
+    "category": "player"
+  },
+  "omnitrix.timeout": {
+    "sounds": [
+      "omnitrix_os_timeout"
+    ],
+    "category": "player"
+  },
+  "omnitrix.active": {
+    "sounds": [
+      "omnitrix_os_active"
+    ],
+    "category": "player"
+  },
+  "omnitrix.alien_cycle": {
+    "sounds": [
+      "omnitrix_os_cycle_1",
+	  "omnitrix_os_cycle_2",
+	  "omnitrix_os_cycle_3",
+	  "omnitrix_os_cycle_4"
+    ],
+    "category": "player"
+  },
+  "omnitrix.transformation": {
+    "sounds": [
+      "omnitrix_os_transformation"
+    ],
+    "category": "player"
+  },
+  "heatblast.bomb": {
+    "sounds": [
+      "heatblast_bomb_explode"
+    ],
+    "category": "player"
+  },
+  "xlr8.speeding": {
+    "sounds": [
+      "xlr8_speeding"
+    ],
+    "category": "player"
+  },
+  "xlr8.slide": {
+    "sounds": [
+      "xlr8_slide"
+    ],
+    "category": "player"
+  },
+  "xlr8.punches": {
+    "sounds": [
+      "xlr8_punches"
+    ],
+    "category": "player"
+  },
+  "xlr8.mask": {
+    "sounds": [
+      "xlr8_mask"
+    ],
+    "category": "player"
+  },
+  "ripjaws.bite": {
+    "sounds": [
+      "ripjaws_bite"
+    ],
+    "category": "player"
+  },
+  "upgrade.speaker_bass": {
+    "sounds": [
+      "upgrade_speaker_bass_1",
+	    "upgrade_speaker_bass_2",
+	    "upgrade_speaker_bass_3"
+    ],
+    "category": "player"
+  },
+  "upgrade.speaker_noise": {
+    "sounds": [
+      "upgrade_speaker_noise"
+    ],
+    "category": "player"
+  },
+  "upgrade.speaker_leap": {
+    "sounds": [
+      "upgrade_speaker_bass_leap"
+    ],
+    "category": "player"
+  },
+  "upgrade.transform": {
+    "sounds": [
+      "upgrade_transform"
+    ],
+    "category": "player"
+  },
+  "upgrade.beam": {
+    "sounds": [
+      "upgrade_beam"
+    ],
+    "category": "player"
+  },
+  "upgrade.charge": {
+    "sounds": [
+      "upgrade_charge"
+    ],
+    "category": "player"
+  },
+  "upgrade.wind": {
+    "sounds": [
+      "upgrade_wind"
+    ],
+    "category": "player"
+  },
+  "wildmutt.echo": {
+    "sounds": [
+      "wildmutt_echo"
+    ],
+    "category": "player"
+  },
+
+  "armory.backpack": {
+    "sounds": [
+      "iron_man_backpack"
+    ],
+    "category": "player"
+  },
+  "armory.backpack2": {
+    "sounds": [
+      "iron_man_backpack2"
+    ],
+    "category": "player"
+  },
+  "armory.invisibility_start": {
+    "sounds": [
+      "invisibility_start"
+    ],
+    "category": "player"
+  },
+  "armory.invisibility_end": {
+    "sounds": [
+      "invisibility_end"
+    ],
+    "category": "player"
+  },
+  "armory.unibeam_charge": {
+    "sounds": [
+      "unibeam_charge"
+    ],
+    "category": "player"
+  }
+}
