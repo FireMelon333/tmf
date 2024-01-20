@@ -118,6 +118,54 @@
     ],
     "category": "player"
   },
+  "ghostfreak.intang.on": {
+    "sounds": [
+      "ghostfreak_intang_on"
+    ],
+    "category": "player"
+  },
+  "ghostfreak.intang.off": {
+    "sounds": [
+      "ghostfreak_intang_off"
+    ],
+    "category": "player"
+  },
+  "ghostfreak.tentacle.start": {
+    "sounds": [
+      "ghostfreak_tentacle_start"
+    ],
+    "category": "player"
+  },
+  "ghostfreak.tentacle.retract": {
+    "sounds": [
+      "ghostfreak_tentacle_retract"
+    ],
+    "category": "player"
+  },
+  "ghostfreak.tentacle.strike": {
+    "sounds": [
+      "ghostfreak_strike"
+    ],
+    "category": "player"
+  },
+  "four_arms.charge": {
+    "sounds": [
+      "four_arms_charge"
+    ],
+    "category": "player"
+  },
+  "four_arms.clap": {
+    "sounds": [
+      "four_arms_clap"
+    ],
+    "category": "player"
+  },
+  "four_arms.spin": {
+    "sounds": [
+      "four_arms_spin"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
