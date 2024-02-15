@@ -130,12 +130,6 @@
     ],
     "category": "player"
   },
-  "ghostfreak.tentacle.start": {
-    "sounds": [
-      "ghostfreak_tentacle_start"
-    ],
-    "category": "player"
-  },
   "ghostfreak.tentacle.retract": {
     "sounds": [
       "ghostfreak_tentacle_retract"
@@ -163,6 +157,42 @@
   "four_arms.spin": {
     "sounds": [
       "four_arms_spin"
+    ],
+    "category": "player"
+  },
+  "diamondhead.charge": {
+    "sounds": [
+      "diamondhead_charge"
+    ],
+    "category": "player"
+  },
+  "diamondhead.blade": {
+    "sounds": [
+      "diamondhead_blade"
+    ],
+    "category": "player"
+  },
+  "diamondhead.deflect": {
+    "sounds": [
+      "diamondhead_deflect"
+    ],
+    "category": "player"
+  },
+  "diamondhead.shooting": {
+    "sounds": [
+      "diamondhead_shooting"
+    ],
+    "category": "player"
+  },
+  "diamondhead.move": {
+    "sounds": [
+      "diamondhead_move"
+    ],
+    "category": "player"
+  },
+  "diamondhead.wave": {
+    "sounds": [
+      "diamondhead_wave"
     ],
     "category": "player"
   },
