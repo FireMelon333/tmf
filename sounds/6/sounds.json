@@ -172,6 +172,12 @@
     ],
     "category": "player"
   },
+  "diamondhead.charge": {
+    "sounds": [
+      "diamondhead_charge"
+    ],
+    "category": "player"
+  },
   "diamondhead.deflect": {
     "sounds": [
       "diamondhead_deflect"
