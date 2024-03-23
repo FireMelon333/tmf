@@ -202,6 +202,24 @@
     ],
     "category": "player"
   },
+  "stinkfly.flight": {
+    "sounds": [
+      "stinkfly_flight"
+    ],
+    "category": "player"
+  },
+  "stinkfly.spit": {
+    "sounds": [
+      "stinkfly_spit"
+    ],
+    "category": "player"
+  },
+  "grey_matter.pepsi": {
+    "sounds": [
+      "grey_matter_pepsi"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
