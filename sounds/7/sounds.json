@@ -232,6 +232,12 @@
     ],
     "category": "player"
   },
+  "heatblast.cold_beam.end": {
+    "sounds": [
+      "cold_beam_end"
+    ],
+    "category": "player"
+  },
   "heatblast.cold_beam": {
     "sounds": [
       "cold_beam"
