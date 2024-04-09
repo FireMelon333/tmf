@@ -226,6 +226,24 @@
     ],
     "category": "player"
   },
+  "heatblast.cold_beam.start": {
+    "sounds": [
+      "cold_beam_start"
+    ],
+    "category": "player"
+  },
+  "heatblast.cold_beam": {
+    "sounds": [
+      "cold_beam"
+    ],
+    "category": "player"
+  },
+  "heatjaws.explosion": {
+    "sounds": [
+      "heatjaws_explode"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
