@@ -250,6 +250,42 @@
     ],
     "category": "player"
   },
+  "wildvine.thorns": {
+    "sounds": [
+      "wildvine_thorns"
+    ],
+    "category": "player"
+  },
+  "wildvine.digging": {
+    "sounds": [
+      "wildvine_digging"
+    ],
+    "category": "player"
+  },
+  "wildvine.growing": {
+    "sounds": [
+      "wildvine_growing"
+    ],
+    "category": "player"
+  },
+  "cannonbolt.movement": {
+    "sounds": [
+      "cannonbolt_movement"
+    ],
+    "category": "player"
+  },
+  "cannonbolt.tornado.loop": {
+    "sounds": [
+      "cannonbolt_tornado_loop"
+    ],
+    "category": "player"
+  },
+  "cannonbolt.tornado.start": {
+    "sounds": [
+      "cannonbolt_tornado_start"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
