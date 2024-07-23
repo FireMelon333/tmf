@@ -286,6 +286,78 @@
     ],
     "category": "player"
   },
+  "frankenstrike.beam.charge": {
+    "sounds": [
+      "frankenstrike_beam_charge"
+    ],
+    "category": "player"
+  },
+  "frankenstrike.beam.loop": {
+    "sounds": [
+      "frankenstrike_beam_loop"
+    ],
+    "category": "player"
+  },
+  "frankenstrike.beam.end": {
+    "sounds": [
+      "frankenstrike_beam_end"
+    ],
+    "category": "player"
+  },
+  "blitzwolfer.beam.charge": {
+    "sounds": [
+      "blitzwolfer_beam_charge"
+    ],
+    "category": "player"
+  },
+  "blitzwolfer.beam.start": {
+    "sounds": [
+      "blitzwolfer_beam_start"
+    ],
+    "category": "player"
+  },
+  "blitzwolfer.beam.loop": {
+    "sounds": [
+      "blitzwolfer_beam_loop"
+    ],
+    "category": "player"
+  },
+  "blitzwolfer.beam.end": {
+    "sounds": [
+      "blitzwolfer_beam_end"
+    ],
+    "category": "player"
+  },
+  "snareOh.tentacles": {
+    "sounds": [
+      "snare_oh_tentacles"
+    ],
+    "category": "player"
+  },
+  "snareOh.transform": {
+    "sounds": [
+      "snare_oh_transform"
+    ],
+    "category": "player"
+  },
+  "snareOh.beam.shoot": {
+    "sounds": [
+      "snare_oh_beam_shoot"
+    ],
+    "category": "player"
+  },
+  "zsSkayr.full": {
+    "sounds": [
+      "zs_skayr_full"
+    ],
+    "category": "player"
+  },
+  "zsSkayr.unlocked": {
+    "sounds": [
+      "zs_skayr_unlocked"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
