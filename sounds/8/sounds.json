@@ -334,6 +334,15 @@
     ],
     "category": "player"
   },
+  "snareOh.tentacle": {
+    "sounds": [
+      "snare_oh_tentacles1",
+      "snare_oh_tentacles2",
+      "snare_oh_tentacles3",
+      "snare_oh_tentacles4"
+    ],
+    "category": "player"
+  },
   "snareOh.transform": {
     "sounds": [
       "snare_oh_transform"
