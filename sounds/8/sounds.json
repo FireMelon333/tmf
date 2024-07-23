@@ -358,6 +358,12 @@
     ],
     "category": "player"
   },
+  "zsSkayr.beam.loop": {
+    "sounds": [
+      "zs_skayr_beam_loop"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
