@@ -373,16 +373,16 @@
     ],
     "category": "player"
   },
-  "upgrade.gag": {
+  "upchuck.gag": {
     "sounds": [
-      "upgrade_gag1",
-      "upgrade_gag2"
+      "upchuck_gag1",
+      "upchuck_gag2"
     ],
     "category": "player"
   },
-  "upgrade.lick": {
+  "upchuck.lick": {
     "sounds": [
-      "upgrade_licking"
+      "upchuck_licking"
     ],
     "category": "player"
   },
