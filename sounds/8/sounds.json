@@ -373,6 +373,19 @@
     ],
     "category": "player"
   },
+  "upgrade.gag": {
+    "sounds": [
+      "upgrade_gag1",
+      "upgrade_gag2"
+    ],
+    "category": "player"
+  },
+  "upgrade.lick": {
+    "sounds": [
+      "upgrade_licking"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
