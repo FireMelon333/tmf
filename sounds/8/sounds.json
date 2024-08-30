@@ -386,6 +386,12 @@
     ],
     "category": "player"
   },
+  "ditto.splitting": {
+    "sounds": [
+      "ditto_splitting"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
