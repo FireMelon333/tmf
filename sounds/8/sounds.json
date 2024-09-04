@@ -392,6 +392,12 @@
     ],
     "category": "player"
   },
+  "electricity.loop": {
+    "sounds": [
+      "electricity_loop"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
