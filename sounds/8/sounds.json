@@ -398,6 +398,30 @@
     ],
     "category": "player"
   },
+  "waybig.beam.start": {
+    "sounds": [
+      "waybig_beam_start"
+    ],
+    "category": "player"
+  },
+  "waybig.beam.stop": {
+    "sounds": [
+      "waybig_beam_stop"
+    ],
+    "category": "player"
+  },
+  "waybig.beam.charging": {
+    "sounds": [
+      "waybig_charging"
+    ],
+    "category": "player"
+  },
+  "waybig.beam.shooting": {
+    "sounds": [
+      "waybig_shooting"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
