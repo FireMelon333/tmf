@@ -422,9 +422,15 @@
     ],
     "category": "player"
   },
-  "echo2x.svream.loop": {
+  "echo2x.scream.loop": {
     "sounds": [
       "echo2x_loop"
+    ],
+    "category": "player"
+  },
+  "echo2x.scream.charge": {
+    "sounds": [
+      "echo2x_charge"
     ],
     "category": "player"
   },
