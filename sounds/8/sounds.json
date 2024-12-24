@@ -32,6 +32,42 @@
     ],
     "category": "player"
   },
+  "omnitrix.recal.activation": {
+    "sounds": [
+      "omnitrix_recalibrated_activation"
+    ],
+    "category": "player"
+  },
+  "omnitrix.recal.timeout": {
+    "sounds": [
+      "omnitrix_recalibrated_timeout"
+    ],
+    "category": "player"
+  },
+  "omnitrix.recal.alien_cycle": {
+    "sounds": [
+      "omnitrix_recalibrated_alien_selection"
+    ],
+    "category": "player"
+  },
+  "omnitrix.recal.transformation": {
+    "sounds": [
+      "omnitrix_recalibrated_transformation"
+    ],
+    "category": "player"
+  },
+  "omnitrix.recal.recalibration": {
+    "sounds": [
+      "omnitrix_recalibrate"
+    ],
+    "category": "player"
+  },
+  "omnitrix.recal.recalibrating": {
+    "sounds": [
+      "omnitrix_recalibrating"
+    ],
+    "category": "player"
+  },
   "heatblast.bomb": {
     "sounds": [
       "heatblast_bomb_explode"
