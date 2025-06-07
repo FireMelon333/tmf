@@ -470,6 +470,48 @@
     ],
     "category": "player"
   },
+  "goop.agp.whoosh": {
+    "sounds": [
+      "goop_agp_whoosh"
+    ],
+    "category": "player"
+  },
+  "goop.agp.boost": {
+    "sounds": [
+      "goop_agp_boost"
+    ],
+    "category": "player"
+  },
+  "goop.agp.loop": {
+    "sounds": [
+      "goop_agp_loop"
+    ],
+    "category": "player"
+  },
+  "goop.beam.charge": {
+    "sounds": [
+      "goop_charge"
+    ],
+    "category": "player"
+  },
+  "goop.beam.shoot": {
+    "sounds": [
+      "goop_shoot"
+    ],
+    "category": "player"
+  },
+  "goop.beam.stop": {
+    "sounds": [
+      "goop_beam_stop"
+    ],
+    "category": "player"
+  },
+  "goop.liquify": {
+    "sounds": [
+      "goop_liquify"
+    ],
+    "category": "player"
+  },
 
   "armory.backpack": {
     "sounds": [
